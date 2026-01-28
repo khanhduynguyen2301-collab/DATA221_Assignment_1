@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c15dd33f-74e0-4079-94ba-bedea798280f" name="Changes" comment="Saved successfully" />
+    <list default="true" id="c15dd33f-74e0-4079-94ba-bedea798280f" name="Changes" comment="Saved successfully">
+      <change beforePath="$PROJECT_DIR$/Question_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DATA221_ASSIGNMENT_1_QUESTION_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DATA221_ASSIGNMENT_1_QUESTION_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DATA221_ASSIGNMENT_1_QUESTION_3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question_4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DATA221_ASSIGNMENT_1_QUESTION_4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question_5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DATA221_ASSIGNMENT_1_QUESTION_5.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question_6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DATA221_ASSIGNMENT_1_QUESTION_6.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question_7.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DATA221_ASSIGNMENT_1_QUESTION_7.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question_8.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DATA221_ASSIGNMENT_1_QUESTION_8.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +97,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Question_2.ipynb</url>
+          <url>file://$PROJECT_DIR$/DATA221_ASSIGNMENT_1_QUESTION_2.ipynb</url>
           <line>1</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
